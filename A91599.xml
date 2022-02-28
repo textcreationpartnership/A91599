@@ -1,0 +1,167 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Questions propounded, or Quæres, concerning remedies, and taking away of the extreame and unnecessary charges, expences, troubles, and long delayes in just causes and suits in courts of equity and others called English-Courts, and abating those that may be for contention and trouble only, and the preservation of many honest men from great losses, and others from undoing therby, without hindrance or prejudice to any but unnecessary and upstart officers.  And how many hundred thousand pounds may be saved to the common-wealth yearly, by reducing proceedings in law to the old and legall proceedings, and taking away those that be unlawfull and contrived by exacting officers for their own only gaine. Authorized to be printed and published for the good of the common-wealth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91599</idno>
+            <idno type="STC">Wing Q183</idno>
+            <idno type="STC">Thomason E379_5</idno>
+            <idno type="STC">ESTC R201398</idno>
+            <idno type="EEBO-CITATION">99861915</idno>
+            <idno type="PROQUEST">99861915</idno>
+            <idno type="VID">114061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91599)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114061)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E379[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Questions propounded, or Quæres, concerning remedies, and taking away of the extreame and unnecessary charges, expences, troubles, and long delayes in just causes and suits in courts of equity and others called English-Courts, and abating those that may be for contention and trouble only, and the preservation of many honest men from great losses, and others from undoing therby, without hindrance or prejudice to any but unnecessary and upstart officers.  And how many hundred thousand pounds may be saved to the common-wealth yearly, by reducing proceedings in law to the old and legall proceedings, and taking away those that be unlawfull and contrived by exacting officers for their own only gaine. Authorized to be printed and published for the good of the common-wealth.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Leach,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 11th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  England --  Early works to 1800.</term>
+               <term>Courts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114061:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <p>Queſtions Propounded, OR Quaeres, Concerning Remedies, and taking away of the extreame and unneceſſary charges, expences, troubles, and long delayes in juſt cauſes and ſuits in Courts of EQUITY and others called ENGLISH-COURTS, and abating thoſe that may be for con<g ref="char:EOLhyphen"/>tention and trouble only, and the preſervation of many honeſt men from great loſſes, and others from undoing thereby, without hindrance or prejudice to any but unneceſſary and upſtart Officers.</p>
+            <p>And how many hundred thouſand pounds may be ſaved to the Common-wealth yearly, by reducing pro<g ref="char:EOLhyphen"/>ceedings in Law to the old and legall proceedings, and taking away thoſe that be unlawfull and contrived by exacting Officers for their own only gaine.</p>
+            <p>
+               <hi>Authorized to be printed and publiſhed for the good of the Common-wealth.</hi>
+            </p>
+            <p>London, Printed by <hi>F. Leach,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="questions">
+            <pb facs="tcp:114061:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb n="3" facs="tcp:114061:2"/>
+            <!-- PDF PAGE 8 -->
+            <head>Queſtions Propounded, OR Quaeres, concerning Remedies, &amp;c.</head>
+            <head type="sub">Firſt in particular, concerning Bils, Anſwers, &amp;c. in Courts called Engliſh-Courts.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas it is and hath been generally reported, that many contentious perſons, ſome being of great ability in wealth, and others other<g ref="char:EOLhyphen"/>wiſe very potent; have, and for many years paſt uſually do put into divers Courts, called Engliſh Courts, and Courts of Equity, divers and ſundry long bils of complaint, againſt divers and ſundry poor honeſt men defendants in the ſame, and thereby have uſu<g ref="char:EOLhyphen"/>ally put ſuch defendants to unneceſſary charges and trouble in
+<pb facs="tcp:114061:3"/>
+               <!-- PDF PAGE 9 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="3" facs="tcp:114061:3"/>
+               <!-- PDF PAGE 9 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:114061:4"/>
+               <!-- PDF PAGE 10 -->taking copies of the ſame, many times in putting and ſtuffing into the ſame more matter then hath been true (though the ſame matter had been pertinent if the ſame had been true) whereby no remedy hath been in ſuch Courts had for ſuch De<g ref="char:EOLhyphen"/>fendants for or concerning ſuch charge or trouble after hear<g ref="char:EOLhyphen"/>ing, but in ſome bils only wherein nothing materiall hath been true. And whereas alſo it is and hath been generally reported, that divers contentious and troubleſome perſons have, and uſu<g ref="char:EOLhyphen"/>ally do put into ſuch Courts, to Bils, diverſe and ſundry anſwers longer and more tedious then is or hath been pertinent or ma<g ref="char:EOLhyphen"/>teriall ſtuffed with impertinent matter purpoſely to put the plaintiffs in ſuch Bils to unneceſſary charges and trouble.</p>
+            <p n="1">1. Whether it be convenient and beneficiall for the Com<g ref="char:EOLhyphen"/>mon-wealth, that no Defendant may be compelled to appear or anſwer to any ſuch Bill till (after ſome convenient time) after that a true paper Copy thereof gratis (that is to ſay) without charge, be delivered to ſuch Defendant, or left for him in the office of the Court where ſuch Bill is to be delivered in Parch<g ref="char:EOLhyphen"/>ment to be filed or kept, and there the Defendant to have the ſame Paper-copy without charge, upon ſome penalty againſt ſuch as do or ſhall exact or demand any thing for the ſame.</p>
+            <p n="2">2. Whether it be convenient and beneficiall for the Common-wealth, that if there be more Defendants then one in any ſuch Bill, that then each Defendant that will not anſwer, together with ſome other of ſuch Defendants in ſuch Bils may be com<g ref="char:EOLhyphen"/>pelled after a convenient time, after he ſhall receive a copy of ſuch Bill to deliver or ſend the ſame to, or leave the ſame for ſuch other Defendant or Defendants, as ſhall be named in ſuch Bils according as ſuch Defendants ſhall be directed or required by ſuch Plaintiffes, or on their behalf under ſome penalty.</p>
+            <p n="3">3. Whether it be convenient and beneficiall for the Com<g ref="char:EOLhyphen"/>mon-wealth, that ſuch or the like courſe may be taken concer<g ref="char:EOLhyphen"/>ning Replycations and Rejoynders, &amp;c. in ſuch Courts to ſuch Bils and Anſwers; and that if ſuch Replycations or Rejoynders
+<pb n="5" facs="tcp:114061:4"/>
+               <!-- PDF PAGE 10 -->ſhall be put in of courſe, as moſt have been (no new matter be<g ref="char:EOLhyphen"/>ing expreſſed in ſuch Replycation or Rejoynder, &amp;c. But only a confeſſion, traverſe, or deniall of ſuch matters, as were or ſhall be in ſuch Bils or Anſwers) that then either party, Plaintiffe or Defendant therein, or their Clerks or Attornies for them, may under ſome penalty be compelled within ſome convenient time (after notice thereof to ſome of them) to reply and rejoyne without further trouble or charges; and whether it be not con<g ref="char:EOLhyphen"/>venient, and for the benefit of the Common-wealth, that ſome or one of the moſt ancient Clerks of beſt experience, who hath uſed to practiſe as a Clerk, and take care and charge of ſuch ſuits there, may have and take the care and charge of the keeping or filing ſuch Bils, Anſwers, Replycations, Rejoynders, &amp;c. and Books, Notes, and Memorandums, to be uſed in ſuch Courts in a good method; and have a competent gaines allowed him or them for ſo doing: And ſuch Drones as can ſhew no legall ground for their beginning and continuance, who have taken and uſe to take and exact exceſſive ſummes of money, and have uſually done no good for what they have taken, may be remo<g ref="char:EOLhyphen"/>ved and aboliſhed as burthenſome members of the Common-wealth: and whether thoſe practiſing Clerkes experienced in ſuch Courts who uſually have taken upon them the charge and managing of proſecuting ſuits in ſuch Courts, do not deſerve to themſelves the uſuall tearm Fees, which uſually have been paid to undeſerving perſons formerly concerning the ſame.</p>
+            <p n="4">4. Whether that thoſe Officers that have of late taken and uſe to take great pretended Fees for copies of ſuch Bils and An<g ref="char:EOLhyphen"/>ſwers, Replycations, and Rejoynders, &amp;c. have any legall au<g ref="char:EOLhyphen"/>thority to exact the ſame if their beginning be well exami<g ref="char:EOLhyphen"/>ned.</p>
+            <p n="5">5. Whether the ancient Clerks in Chancery that formerly were very learned and expert drawers and penners of ſpeciall Writs, anciently called Maſter-writs, and ſpeciall Actions, Peti<g ref="char:EOLhyphen"/>tions, Bils, Anſwers, &amp;c. did in their times uſe to take any more then was willingly given them by ſuitors in ſuch Courts, for ſuch
+<pb n="6" facs="tcp:114061:5"/>
+               <!-- PDF PAGE 11 -->Bils, Anſwers, Replycations, and Rejoynders, &amp;c. And whe<g ref="char:EOLhyphen"/>ther proceedings in ſuch ſuits were not very ſhort and ſpeedily ended at a ſmall charge in thoſe times: and whether upon ſearching Records they may not eaſily be found ſo to be?</p>
+            <p n="6">6. Whether that after thoſe ancient Clerks time expired, ſince about the time of the beginning of the reign of Queene <hi>Elizabeth</hi> of England, &amp;c. thoſe perſons who took upon them to officiate part of that which thoſe ancient Clerks formerly uſed to do, did not at their firſt beginning uſe to wait on the Maſter of the Rols, in Blew-coats, and ſo continue diverſe years after, and uſed to take no more then what was given them, as aforeſaid, without exacting any more: and whether any fee at all (more then ſuitors will willingly give in ſuch caſes) be due at all to any; and how they doe or can lawfully challenge or claime the ſame, or ſtay any mans proceedings for not paying ſuch exactions.</p>
+            <p n="7">7. Whether thoſe Officers who now have and do take and exact ſuch great pretended fees, and ſuffer no perſon to pro<g ref="char:EOLhyphen"/>ceed in their juſt and lawfull cauſes, without payment of ſuch pretended fees, but hinder proceedings in the ſame till pay<g ref="char:EOLhyphen"/>ment thereof; doe, or have deſerved any thing at all for thoſe divers thouſand pounds, which they yearly have taken and uſual<g ref="char:EOLhyphen"/>ly exacted and do exact yearly. And whether they know or take knowledge of any thing concerning ſuch ſuits, but only ſo exacting ſuch pretended fees. And whether divers of them bee not ſuch men who be not capable of underſtanding the ſuits for which they have exacted, and uſually do exact ſuch great ſummes of money: and whether they be not burthenſome members of the Common-wealth? And whether if ſuch members be ſuffe<g ref="char:EOLhyphen"/>red to continue, it will not be an occaſion of more ſuch like to increaſe; and make men have a deſire to bring in a confuſion, and be weary, and deſpiſe the lawes of the Land which have for<g ref="char:EOLhyphen"/>merly been accounted the beſt in Europe?</p>
+            <p n="8">8. Whether both Plaintiffe and defendant may not have
+<pb n="7" facs="tcp:114061:5"/>
+               <!-- PDF PAGE 11 -->copies of ſuch Bils, Anſwers, Replycations, and Rejoynders, co<g ref="char:EOLhyphen"/>pied by thoſe Clerks of thoſe Courts, who manage and under<g ref="char:EOLhyphen"/>ſtand the proceedings in ſuch ſuits and matter thereof, and take care and charge thereof: or by the Clerks of their Councelours, or by their Solicitours at a cheape rate, and their ſuits better and more ſpeedily diſpatched and done, and yet divers thou<g ref="char:EOLhyphen"/>ſand pounds yearly ſaved, if ſuch exactions before mentioned be taken away? And whether it were not better to have ſuch Courts reformed or reduced to their old proceedings onely, then to have them cryed downe by diverſe people, being ſuch Courts anciently have been accounted beneficiall to the Com<g ref="char:EOLhyphen"/>mon-wealth; and a means of preſervation of juſt and honeſt dealings in the Common-wealth.</p>
+            <p n="9">9. Whether ſuch Clerks and Solicitors be not fitteſt to doe ſuch things (that is to ſay) to make ſuch copies, being ſuch Clerks and Solicitors beſt underſtand ſuch proceedings? And whether by giving copies (without charge) as aforeſaid, by ei<g ref="char:EOLhyphen"/>ther party to the other, will not be an occaſion of many ſhorter Bils and Anſwers, then have beene and uſually be; and a cauſe of abating and taking away many which have perplexed ſuch Courts, and vexed the ſuitors and Counſel in ſuch ſuits?</p>
+            <p n="10">10. Whether it be not better that deſerving Clerks who have gained experience by their ſtudy, labour, and practiſe in ſuch Courts, be choſen for their honeſty, judgement, and experi<g ref="char:EOLhyphen"/>ence only, to be Clerks in ſuch Courts (to take a competent gaine onely, without exacting any exceſſive charges for what they ſhall doe) then that ſuch places ſhould be ſold for money to ſuch that underſtand nothing concerning the ſame, but only to exact money thereby, to the hurt and prejudice of ſuitors there, by ſelling Under-clerks places for money to diverſe ſuch Clerks as be experienced Clerks; and ſuffering none to come into ſuch places without money, or ſome other reward though they be never ſo well experienced and able in ſuch Courts? And yet, Quaere, whether ſuch who underſtand ſo little do not exact above four times ſo much of every one of his
+<pb n="8" facs="tcp:114061:6"/>
+               <!-- PDF PAGE 12 -->Under-clerks (though they be many) as ſuch Under-clerk ta<g ref="char:EOLhyphen"/>keth for himſelf.</p>
+            <p>Other Quaeres writ above four years ſince, ſhortly after con<g ref="char:EOLhyphen"/>cerning the multitude of Orders, and chargeableneſſe thereof, and other proceedings in the ſaid Courts, are intended to be publiſhed. And afterwards, other Quaeres concerning exactions of Sheriffes, Bayliffes, Gaolers, and other ſuch like Officers; with divers others after thoſe if need be.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
